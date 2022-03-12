@@ -1,4 +1,4 @@
-# Library cluster of common Redis Modules automation code
+# Library cluster of automation facilities
 
 [bin](docs/bin.md): Utilities
 
